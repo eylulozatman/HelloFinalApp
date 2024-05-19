@@ -1,7 +1,1 @@
-.DS_Store
-.vscode/
-.idea/
-.cache/
-azure.err
-*.publishsettings
-/node_modules
+node_modules/
