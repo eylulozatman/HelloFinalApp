@@ -14,6 +14,10 @@ app.get('/register', (req, res) => {
     res.send('Hello, register page!');
   });
 
+  app.get('/register2', (req, res) => {
+    res.send('Hello, register2 page!');
+  });
+
 app.listen(port, () => {
   console.log(`App is listening at http://localhost:${port}`);
 });
