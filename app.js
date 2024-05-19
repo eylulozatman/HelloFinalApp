@@ -10,6 +10,11 @@ app.get('/', (req, res) => {
     res.send('login function is working');
   });
 
+  app.get('/login', (req, res) => {
+    res.send('login2 function is working');
+  });
+
+
 app.get('/register', (req, res) => {
     res.send('Hello, register page!');
   });
