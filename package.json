@@ -1,5 +1,5 @@
 {
-  "name": "simple-node-app",
+  "name": "hellofinalapp",
   "version": "1.0.0",
   "description": "A simple Node.js application",
   "main": "app.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "devDependencies": {}
 }
